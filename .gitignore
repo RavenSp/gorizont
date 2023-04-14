@@ -143,4 +143,8 @@ cython_debug/
 *.sqlite3
 migrations
 __pycache__
-
+media
+static
+.idea
+.vscode
+.fleet
